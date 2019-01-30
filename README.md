@@ -47,4 +47,4 @@ asyncPrint(debounced(true));
 debounce(fn: Function, timeout: Number, [defaultValue: Any]): Function;
 ```
 
-`defaultValue` - The value to be returned when a promise is canceled before the original function is resolved/rejected.
+`defaultValue` - The value to be returned when a promise is canceled before the original function is resolved/rejected first time.

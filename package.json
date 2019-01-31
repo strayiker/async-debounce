@@ -5,6 +5,9 @@
   "main": "lib/index.js",
   "author": "Kirill Mesnyankin <sadbox.games@gmail.com>",
   "license": "MIT",
+  "files": [
+    "lib"
+  ],
   "sideEffects": false,
   "scripts": {
     "prebuild": "rimraf lib",

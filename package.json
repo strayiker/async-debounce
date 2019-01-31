@@ -1,6 +1,6 @@
 {
   "name": "@sadbox/async-debounce",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Async debounce function",
   "main": "lib/index.js",
   "author": "Kirill Mesnyankin <sadbox.games@gmail.com>",

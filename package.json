@@ -8,6 +8,10 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strayiker/async-debounce.git"
+  },
   "sideEffects": false,
   "scripts": {
     "prebuild": "rimraf lib",

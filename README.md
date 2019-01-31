@@ -2,6 +2,8 @@
 
 # Async Debounce
 
+![diagram](diagram.png)
+
 Debounce async functions.
 
 ## Install

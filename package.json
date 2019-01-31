@@ -12,7 +12,8 @@
   "scripts": {
     "prebuild": "rimraf lib",
     "build": "babel ./src -d ./lib",
-    "test": "eslint src"
+    "test": "eslint src",
+    "prepublishOnly": "yarn build"
   },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
